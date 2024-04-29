@@ -1,0 +1,22 @@
+id,o:title,schema:algorithm,schema:dataset,skos:hasTopConcept_1,skos:hasTopConcept_2,skos:hasTopConcept_3,skos:hasTopConcept_4
+14036,1 The Road,,,Mouvement Beat,performatif,,
+14035,"Anderson Cooper, 4K Original/(Deep)Fake Example",,,Deepfake,Service,,
+14034,Photos of Donald Trump Being Arrested II,,,Faux,Fake images,,
+14033,Photos of Donald Trump Being Arrested I,,,Faux,Fake images,,
+14032,Ce climat n’existe pas,,,GAN,crise climatique,,
+14031,Si Rome n’avait pas chuté,,,génératif,histoire,,
+14030,Flick KA AI,,,Données d'entraînement,Portrait,faux,
+14029,"Machine, Being and Nothingness",,,Histoire de l'art,IA,,
+14028,Flowers Blooming Backward Into Noise,,,histoire des sciences,Criminologie,,
+14027,An Earthology of Moving Landforms,,,médias,Prédiction,,
+14026,Future Memories: Phaedo,,,mémoire,Données d'entraînement,,
+14025,Soft Evidence,,,Deepfake,droit,Violation des droits d'un tiers,
+14024,Reconstitution de l’appel du 18 juin,,,Authenticité,histoire,Reconstitution,
+14023,Pseudomnesia : The Electrician,DALLE-2,DALLE-2 (dataset),Artefact,Fake images,Photographie,
+14022,Have I Been Trained?,Récupération de clips,LAION-5B,Données d'entraînement,Embedding,sémantique,Service
+14021,Attack the Sun,Attack the Sun (logiciel),Attack the Sun (scénario),Annotation : Dark media - irrationnalisme,Côte Ouest,,
+14020,Abstraction & Reasoning Corpus,,Abstraction & Reasoning Corpus,Données d'entraînement,Données synthétiques,Rationalisme,
+14019,Blade Runner—Autoencoded,Autoencoding Video Frames,Blade Runner,mémoire,Authenticité,Reconstruction,
+14018,GANS et usages de faux,TLEL,Trois lignes (10K),Entraînement,Artefact,GAN,faux
+14017,Machine Unlearning,MobileNET,ImageNet,Obfuscation,Biais algorithmique,Indéterminé,
+14016,Critical Climate Machine (102 dialogues),Dicy2,Cent-deux dialogues sur le climat en trois degrés,Désautomatisation,crise climatique,Authenticité,Pensée critique

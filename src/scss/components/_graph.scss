@@ -1,0 +1,31 @@
+//---- GRAPH ----\\
+
+.dataviz_area {
+  border: solid red 5px;
+  svg {
+    g {
+      line {
+        color: red;
+      }
+    }
+  }
+}
+.link {
+  fill: none;
+  stroke: black;
+  stroke-width: 1.5px;
+}
+
+.text-node {
+  color: white !important;
+}
+
+.link.resolved {
+  stroke-dasharray:
+    0,
+    2 1;
+}
+
+#dataviz_area {
+  flex: 1;
+}
