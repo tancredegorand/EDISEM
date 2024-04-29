@@ -1,7 +1,7 @@
 // ---- import jsonld --- \\
 
 // URL du fichier JSON-LD
-const jsonldUrl = "/medias.jsonld";
+const jsonldUrl = "medias.jsonld";
 
 // Récupérer le contenu du fichier JSON-LD
 async function fetchJsonldFile(url) {
